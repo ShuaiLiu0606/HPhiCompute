@@ -1,0 +1,3 @@
+/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build/CMakeFiles/my_pro.dir
+/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build/CMakeFiles/edit_cache.dir
+/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build/CMakeFiles/rebuild_cache.dir

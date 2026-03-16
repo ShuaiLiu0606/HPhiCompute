@@ -1,7 +1,11 @@
 HPhi Post-Processing Toolkit: Physical Observable Calculator
 
-简介
-本工具用于处理 HPhi（专家模式）生成的输出文件，计算零温、有限温及全对角化下的多种物理量。它能够自动识别并处理由 HPhiBuild （Run.py）产生的以 KG_xxxPI_xxh 命名的输出文件，并将计算结果分类存储到对应的文件夹中，便于后续分析与可视化。
+简介:
+本工具用于处理 HPhi（专家模式）生成的输出文件，计算零温、有限温及全对角化下的多种物理量。它能够自动识别并处理由 HPhiBuild （Run.py）产生的以 KG_thetaxxxPI_hxxx 命名的输出文件，并将计算结果分类存储到对应的文件夹中，便于后续分析与可视化。
+
+注意:
+1. main.cpp 中的 “SAMPLE_NUM” 的参数控制是基态还是激发态，0：基态；1：第一激发态；2：第二激发态...
+2. 各个计算结果的文件必须命名为 "KG_xxxPI_xxxh"，必须与 Common.cpp 中 "GetAllFilesWithPrefix" 函数中的设置相对应。
 
 主要功能
 1. 零温计算 
@@ -65,3 +69,4 @@ Wilson Loop 算符：Wx, Wy, Wz
 全对角化输入：inputFull/
 
 输出文件夹：程序运行后，计算结果将以文本文件形式保存在当前工作目录（或指定输出路径），文件名标识物理量、温度及系统参数。
+

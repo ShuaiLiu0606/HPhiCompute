@@ -1,0 +1,4 @@
+initial sz : Mon Mar 16 20:53:47 2026
+num_threads==4
+omp parallel sz starts: Mon Mar 16 20:53:47 2026
+omp parallel sz finishes: Mon Mar 16 20:53:47 2026

@@ -1,0 +1,111 @@
+Read File starts:   Mon Mar 16 20:53:47 2026
+Read File finishes: Mon Mar 16 20:53:47 2026
+initial sz : Mon Mar 16 20:53:47 2026
+omp parallel sz starts: Mon Mar 16 20:53:47 2026
+omp parallel sz finishes: Mon Mar 16 20:53:47 2026
+diagonal calculation starts:   Mon Mar 16 20:53:47 2026
+diagonal calculation finishes: Mon Mar 16 20:53:47 2026
+Lanczos Eigen Value start:    Mon Mar 16 20:53:47 2026
+  0 th Lanczos step: Mon Mar 16 20:53:47 2026
+  1 th Lanczos step: Mon Mar 16 20:53:47 2026
+  2 th Lanczos step: Mon Mar 16 20:53:47 2026
+  3 th Lanczos step: Mon Mar 16 20:53:47 2026
+  4 th Lanczos step: Mon Mar 16 20:53:47 2026
+  5 th Lanczos step: Mon Mar 16 20:53:47 2026
+  6 th Lanczos step: Mon Mar 16 20:53:47 2026
+  7 th Lanczos step: Mon Mar 16 20:53:47 2026
+  8 th Lanczos step: Mon Mar 16 20:53:47 2026
+  9 th Lanczos step: Mon Mar 16 20:53:47 2026
+ 10 th Lanczos step: Mon Mar 16 20:53:47 2026
+ 11 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 12 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 13 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 14 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 15 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 16 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 17 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 18 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 19 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 20 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 21 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 22 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 23 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 24 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 25 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 26 th Lanczos step: Mon Mar 16 20:53:48 2026
+ 27 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 28 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 29 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 30 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 31 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 32 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 33 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 34 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 35 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 36 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 37 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 38 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 39 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 40 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 41 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 42 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 43 th Lanczos step: Mon Mar 16 20:53:49 2026
+ 44 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 45 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 46 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 47 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 48 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 49 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 50 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 51 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 52 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 53 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 54 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 55 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 56 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 57 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 58 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 59 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 60 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 61 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 62 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 63 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 64 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 65 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 66 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 67 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 68 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 69 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 70 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 71 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 72 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 73 th Lanczos step: Mon Mar 16 20:53:50 2026
+ 74 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 75 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 76 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 77 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 78 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 79 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 80 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 81 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 82 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 83 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 84 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 85 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 86 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 87 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 88 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 89 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 90 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 91 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 92 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 93 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 94 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 95 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 96 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 97 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 98 th Lanczos step: Mon Mar 16 20:53:51 2026
+ 99 th Lanczos step: Mon Mar 16 20:53:52 2026
+Lanczos Eigenvalue finishes:  Mon Mar 16 20:53:52 2026
+Output Eigenvector starts:          Mon Mar 16 20:54:46 2026
+Output Eigenvector starts:          Mon Mar 16 20:54:46 2026

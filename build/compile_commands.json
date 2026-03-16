@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/Common.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Common.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Common.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/Common.cpp.o"
+},
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/Correlation.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Correlation.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Correlation.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/Correlation.cpp.o"
+},
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/EE.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/EE.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/EE.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/EE.cpp.o"
+},
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/Energy.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Energy.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Energy.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/Energy.cpp.o"
+},
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/Fidelity.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Fidelity.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Fidelity.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/Fidelity.cpp.o"
+},
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/Fulldiag_cal.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Fulldiag_cal.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Fulldiag_cal.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/Fulldiag_cal.cpp.o"
+},
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/Magnetization.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Magnetization.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/Magnetization.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/Magnetization.cpp.o"
+},
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/TPQ.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/TPQ.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/TPQ.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/TPQ.cpp.o"
+},
+{
+  "directory": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/build",
+  "command": "/usr/bin/c++  -I/opt/intel/oneapi/mkl/latest/include -I/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/include -g -std=gnu++17 -fopenmp -o CMakeFiles/my_pro.dir/src/main.cpp.o -c /home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/main.cpp",
+  "file": "/home/ls/Documents/Task1_KitaevGamma+h/src/KitaevGamma+h/HPhiComp/src/main.cpp",
+  "output": "CMakeFiles/my_pro.dir/src/main.cpp.o"
+}
+]

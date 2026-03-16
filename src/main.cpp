@@ -99,11 +99,11 @@ int main()
                     my_cplx_vec Phi;
                     LOBPCG.Phi_Read(CG_Files, Phi);
 
-                    // Wp_m.push_back(Phi);
+                    Wp_m.push_back(Phi);
 
-                    //   LOBPCG.EnergySpectrum(CG_Files);
+                    LOBPCG.EnergySpectrum(CG_Files);
 
-                    //     LOBPCG.Fidelity(Wp_m, NumTheta, Num_h);
+                    LOBPCG.Fidelity(Wp_m, NumTheta, Num_h);
 
                     //=====================================================================
                     /*  LOBPCG.S_Moments(Phi.data());
@@ -149,7 +149,7 @@ int main()
                     Wzs[1] = {12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23};
                     // LOBPCG.WzMoments(Phi.data(), Wzs);
 
-                    // LOBPCG.Halfchain_EE(Phi.data());
+                    LOBPCG.Halfchain_EE(Phi.data());
 
                     uint32_t sizeA = 2;
                     uint32_t *sitesA = new uint32_t[sizeA]{0, 1};
@@ -171,7 +171,7 @@ int main()
           }
      }
 
-     if (1)
+     if (0)
      {
 
           cout << "*********************  cTPQ  *********************" << endl;
